@@ -20,6 +20,7 @@
 .idea/scopes/scope_settings.xml
 .idea/vcs.xml
 .idea/workspace.xml
+build/**
 gradlew
 gradlew.bat
 cpstlnd.iml
